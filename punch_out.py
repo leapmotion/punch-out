@@ -1,6 +1,6 @@
 ################################################################################
 # Copyright (C) 2012-2016 Leap Motion, Inc. All rights reserved.               #
-# See the LICENSE file for terms of distribution                               #
+# See the LICENSE file for terms of distribution.                              #
 ################################################################################
 
 import Leap, sys
